@@ -1,12 +1,13 @@
 {
     "alphabet_type": "latin",
+    "default_lang": "en_US",
     "default_language_set": false,
     "fallback_default_language": "en_US",
     "fallback_languages": {
         "en_US": {
             "alphabet_type": "latin",
             "file": "en_US.json",
-            "name": "English (US)"
+            "name": "AreoMenu"
         }
     },
     "selected_language": "en_US",
